@@ -12,6 +12,10 @@
 
 ### About me
 
+BSIT graduate specializing in Internet of Things (IoT). Interested in desktop, web, and mobile development, database systems, embedded systems, and software engineering. Experienced with building applications, working with different technologies, and solving practical problems through development.
+
+### Philosophy
+
 "Every second matters. In software development, speed means nothing without consistency, and a working system means little if it cannot perform reliably under real conditions. Requirements evolve, overlooked details surface, and supposedly final versions become another round of revisions. There is no point dwelling on what went wrong or becoming attached to a previous solution. Identify the problem, make the necessary changes, test the result, and move forward. Every revision is an opportunity to improve execution, every failure exposes something worth correcting, and every second spent should contribute to a better result. The objective is not simply to finish first, but to deliver something that works, performs, and holds up when it matters. **No excuses, no complacency, just continuous improvement.**"
 
 ### Tech stack
