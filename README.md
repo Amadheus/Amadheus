@@ -55,7 +55,7 @@ Formula 1, WEC & GT Racing Enthusiast · Sim Racing · PC Gaming · PC Hardware 
 
 <div align="center">
 
-*I mean, it's always if, if, if, right? If my mum had balls, she would be my dad*
+*I mean, it's always if, if, if, right? If my mum had balls, she would be my dad.*
 *Sometimes it works out for you, sometimes it doesn't.*
 
 </div>
