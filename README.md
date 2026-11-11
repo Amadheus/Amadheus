@@ -49,12 +49,13 @@ IoT systems · Connected devices · Hardware–software integration
 
 ### Beyond code
 
-Formula 1 and GT racing · Gaming · PC hardware · Anime and manga
+Formula 1, WEC & GT Racing Enthusiast · Sim Racing · PC Gaming · PC Hardware · Keyboardist
 
 ---
 
 <div align="center">
 
-*Build thoughtfully. Keep it useful.*
+*I mean, it's always if, if, if, right? If my mum had balls, she would be my dad*
+*Sometimes it works out for you, sometimes it doesn't.*
 
 </div>
